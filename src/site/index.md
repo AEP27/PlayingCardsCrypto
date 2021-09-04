@@ -7,3 +7,6 @@ layout: layouts/base.njk
 
 ## We are just starting
 
+Just a quick peak:
+![Sample Card](/images/pcc.jpg)
+
