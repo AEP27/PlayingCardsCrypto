@@ -1,6 +1,6 @@
 ---
-title: Poker Loot
-subtitle: Poker based Loot.
+title: Poker for Loot
+subtitle: Let'sp play.
 layout: layouts/base.njk
 ---
 
