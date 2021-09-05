@@ -1,7 +1,7 @@
 ---
-title: About PCC
+title: About Pocker Loot
 layout: layouts/base.njk
-subtitle: PCC is starting soon.
+subtitle: PL is starting soon.
 ---
 
 ## Coming Soon.
