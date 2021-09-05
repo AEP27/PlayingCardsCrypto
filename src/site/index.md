@@ -1,6 +1,6 @@
 ---
 title: Poker for Loot
-subtitle: Let'sp play.
+subtitle: Loot for Poker is randomized adventurer gear generated and stored on chain. Each NFT contains 5 cards. You can interpret the values of cards according to poker rules. Feel free to use Loot Poker in any way you want. Let's play.
 layout: layouts/base.njk
 ---
 
