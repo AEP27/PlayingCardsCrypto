@@ -10,5 +10,5 @@ layout: layouts/base.njk
 Inspired by  [Playing Arts Crypto](https://playingarts.com/en/crypto)
 
 Just a quick peak:
-![Sample Card](/images/pcc.jpg)
+![Sample Card](/images/pokerlootcard.jpg)
 
