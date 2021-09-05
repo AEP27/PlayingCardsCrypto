@@ -4,12 +4,14 @@ subtitle: Loot Poker is randomized adventurer gear generated and stored on chain
 layout: layouts/base.njk
 ---
 
-
 ## We are just starting
+
+Discord: [https://discord.gg/gGJdrheAMM](https://discord.gg/gGJdrheAMM)
+Twitter: [https://twitter.com/LootPoker](https://twitter.com/LootPoker)
 
 Inspired by  [Playing Arts Crypto](https://playingarts.com/en/crypto)
 
-##  Just a quick peak:
+##  Quick card peak:
 
 ![Sample Card](/images/pokerlootcard.jpg)
 
