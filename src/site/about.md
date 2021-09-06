@@ -15,7 +15,7 @@ PA is an amazing set of 55 nft cards designed by some of the best 3d art creator
 On Sunday AEP reached out to the Loot Discord if anyone could bounce some ideas around Loot and henry.eth responded. Since then we've talked, tinkered and made Loot Poker.
 
 From here on the community can play, build and earn together.
-Thank you for joining the journey. Get on the Discord to stay up to date, give feedback and participate.
+Thank you for joining the journey. Get on the [Loot Poker Discord](https://discord.gg/ZUrnX3Ym) to stay up to date, give feedback and participate.
 
 ## Roadmap
 
